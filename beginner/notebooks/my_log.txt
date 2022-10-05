@@ -1,0 +1,8 @@
+2018-09-21 23:17:54,486 | MyFileLogger | WARNING    | Oops something is going to happen
+2018-09-21 23:17:54,486 | MyFileLogger | ERROR      | John Doe visits our place
+2022-10-02 17:34:45,334 | MyFileLogger | WARNING    | Oops something is going to happen
+2022-10-02 17:34:45,334 | MyFileLogger | ERROR      | John Doe visits our place
+2022-10-02 17:35:52,887 | MyFileLogger | WARNING    | Oops something is going to happen
+2022-10-02 17:35:52,887 | MyFileLogger | ERROR      | John Doe visits our place
+2022-10-02 17:36:52,441 | MyFileLogger | WARNING    | Oops something is going to happen
+2022-10-02 17:36:52,441 | MyFileLogger | ERROR      | John Doe visits our place
